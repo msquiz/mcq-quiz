@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MS Quiz - Test Your Knowledge</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header>
+        <div class="logo">
+			<i class="fas fa-brain"></i>
+            <span>MS Quiz</span>
+        </div>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="about.html"><i class="fas fa-info-circle"></i> About Us</a></li>
+                <li><a href="contact.html"><i class="fas fa-envelope"></i> Contact</a></li>
+            </ul>
+            <button class="mobile-menu-btn" id="mobileMenuBtn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </nav>
+		<div class="language-switcher">
+        <select id="languageSelect">
+            <option value="en">English</option>
+            <option value="hi">हिंदी (Hindi)</option>
+        </select>
+		</div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Sidebar with Categories -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h2><i class="fas fa-folder-open"></i> Categories</h2>
+            </div>
+            <ul class="categories">
+                <li class="category-item active" data-category="general">
+                    <i class="fas fa-globe"></i>
+                    <span>General Knowledge</span>
+                </li>
+                <li class="category-item" data-category="science">
+                    <i class="fas fa-flask"></i>
+                    <span>Science</span>
+                </li>
+                <li class="category-item" data-category="history">
+                    <i class="fas fa-landmark"></i>
+                    <span>History</span>
+                </li>
+                <li class="category-item" data-category="geography">
+                    <i class="fas fa-map-marked-alt"></i>
+                    <span>Geography</span>
+                </li>
+                <li class="category-item" data-category="technology">
+                    <i class="fas fa-laptop-code"></i>
+                    <span>Technology</span>
+                </li>
+                <li class="category-item" data-category="sports">
+                    <i class="fas fa-football-ball"></i>
+                    <span>Sports</span>
+                </li>
+            </ul>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Welcome Screen -->
+            <section class="welcome-screen" id="welcomeScreen">
+			<!-- Image Container -->
+			   <h1>Test Your Knowledge!</h1>
+			   <div class="image-container">
+					<img src="./images/logo.png" alt="Quiz Portal Logo" class="image">
+				</div>
+                <p class="welcome-desc">Welcome to MS Quiz, your ultimate destination for challenging quizzes across various categories. Select a category from the sidebar and start testing your knowledge. Each quiz contains multiple-choice questions. After submission, you'll see your score and answers of questions.</p>
+                <h3> You Can Stop the Timer OR Add More Time for Quiz <h4>
+				<h3> आप टाइमर को रोक भी सकते हैं या समय को बढ़ा भी सकते हैं <h3><br>
+				<button class="start-btn" id="startBtn">Start Quiz <i class="fas fa-arrow-right"></i></button>
+            </section>
+
+            <!-- Quiz Container -->
+            <section class="quiz-container" id="quizContainer">
+                <div class="quiz-header">
+                    <h2 class="quiz-title">General Knowledge Quiz</h2>
+                    <div class="timer"><i class="fas fa-clock"></i> Time: <span id="time">10:00</span></div>
+                </div>
+                
+                <div class="question-container">
+                    <div class="question-number">Question <span id="currentQ">1</span> of <span id="totalQ">25</span></div>
+                    <div class="question-text" id="question">Loading question...</div>
+                    <div class="options-container" id="options">
+                        <!-- Options will be inserted here by JavaScript -->
+                    </div>
+                </div>
+                
+                <div class="quiz-navigation">
+                    <button class="nav-btn prev-btn" id="prevBtn"><i class="fas fa-arrow-left"></i> Previous</button>
+                    <button class="nav-btn next-btn" id="nextBtn">Next <i class="fas fa-arrow-right"></i></button>
+                    <button class="nav-btn submit-btn" id="submitBtn" style="display: none;">Submit Quiz</button>
+                </div>
+				
+				<div class="timer-controls">
+					<button class="timer-btn" id="pauseTimer"><i class="fas fa-pause"></i> Pause Timer</button>
+					<button class="timer-btn" id="resumeTimer" style="display:none;"><i class="fas fa-play"></i> Resume Timer</button>
+					<button class="timer-btn" id="addTime"><i class="fas fa-plus"></i> Add 30s More</button>
+				</div>
+				
+            </section>
+
+            <!-- Results Container -->
+            <section class="results-container" id="resultsContainer">
+                <div class="results-header">
+                    <h2 class="results-title">Quiz Results</h2>
+                    <p>You've completed the <span id="quizCategory">General Knowledge</span> quiz!</p>
+                </div>
+                
+                <div class="score" id="finalScore">0/25</div>
+                <div class="score-text" id="scoreMessage">Keep learning to improve your score!</div>
+                
+                <div class="results-details" id="resultsDetails">
+                    <!-- Results will be inserted here by JavaScript -->
+                </div>
+                
+                <div class="action-buttons">
+                    <button class="action-btn restart-btn" id="restartBtn"><i class="fas fa-redo"></i> Restart Quiz</button>
+                    <button class="action-btn new-quiz-btn" id="newQuizBtn"><i class="fas fa-book"></i> New Quiz</button>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">MS Quiz</div>
+            <p>Test your knowledge and challenge yourself with our extensive quiz collection</p>
+            
+            <div class="footer-links">
+                <a href="index.html"><i class="fas fa-home"></i> Home</a>
+                <a href="about.html"><i class="fas fa-info-circle"></i> About Us</a>
+                <a href="contact.html"><i class="fas fa-envelope"></i> Contact</a>
+                <a href="#"><i class="fas fa-shield-alt"></i> Privacy Policy</a>
+                <a href="#"><i class="fas fa-file-alt"></i> Terms of Service</a>
+            </div>
+            
+            <div class="copyright">
+                &copy; 2025 MS Quiz. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
