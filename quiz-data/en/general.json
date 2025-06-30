@@ -1,0 +1,130 @@
+{
+    "title": "General Knowledge",
+    "questions": [
+    {
+        "question": "What is the capital city of France?",
+        "options": ["London", "Berlin", "Paris", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Which country is home to the kangaroo?",
+        "options": ["South Africa", "Brazil", "Australia", "New Zealand"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Yuan", "Won", "Yen", "Ringgit"],
+        "answer": "Yen"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Thailand", "Japan", "South Korea"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au"
+    },
+    {
+        "question": "Which continent is the Sahara Desert located in?",
+        "options": ["Asia", "Africa", "Australia", "South America"],
+        "answer": "Africa"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mercury", "Earth", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Which organ pumps blood throughout the body?",
+        "options": ["Liver", "Brain", "Heart", "Lungs"],
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": ["Femur", "Tibia", "Humerus", "Skull"],
+        "answer": "Femur"
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "options": ["Japan", "Brazil", "UK", "China"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": ["Liquid Lava", "Hydrogen Gas", "Oxygen Gas", "Carbon Dioxide"],
+        "answer": "Hydrogen Gas"
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the national animal of India?",
+        "options": ["Lion", "Elephant", "Bengal Tiger", "Peacock"],
+        "answer": "Bengal Tiger"
+    },
+    {
+        "question": "Which language has the most native speakers worldwide?",
+        "options": ["English", "Hindi", "Spanish", "Mandarin Chinese"],
+        "answer": "Mandarin Chinese"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+        "answer": "Antarctic Desert"
+    },
+    {
+        "question": "Which year did World War II end?",
+        "options": ["1943", "1945", "1950", "1939"],
+        "answer": "1945"
+    }
+]
+}

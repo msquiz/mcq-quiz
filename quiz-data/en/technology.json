@@ -1,0 +1,131 @@
+{
+    "title": "Technology",
+    "questions": [
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Computer Processing Unit", "Central Performance Unit"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which company developed the Windows operating system?",
+        "options": ["Apple", "Microsoft", "Google", "IBM"],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What is the brain of the computer?",
+        "options": ["Hard Disk", "RAM", "CPU", "GPU"],
+        "answer": "CPU"
+    },
+    {
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": ["Python", "Java", "JavaScript", "C++"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "Hyperlink Text Management Language", "Home Tool Markup Language", "Hyper Transfer Markup Language"],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "question": "Which one is not an operating system?",
+        "options": ["Windows", "Linux", "Oracle", "macOS"],
+        "answer": "Oracle"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperText Transmission Process", "High Transfer Text Protocol"],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Which device is used to convert digital signals to analog for internet access?",
+        "options": ["Router", "Switch", "Hub", "Modem"],
+        "answer": "Modem"
+    },
+    {
+        "question": "Which social media platform is owned by Meta?",
+        "options": ["Twitter", "Instagram", "Telegram", "Snapchat"],
+        "answer": "Instagram"
+    },
+    {
+        "question": "Which storage device has no moving parts?",
+        "options": ["HDD", "CD", "SSD", "Floppy Disk"],
+        "answer": "SSD"
+    },
+    {
+        "question": "Which company makes the iPhone?",
+        "options": ["Samsung", "Google", "Apple", "OnePlus"],
+        "answer": "Apple"
+    },
+    {
+        "question": "Which of these is a cloud computing platform?",
+        "options": ["Azure", "Java", "Linux", "Excel"],
+        "answer": "Azure"
+    },
+    {
+        "question": "What is the full form of USB?",
+        "options": ["Universal System Bus", "Universal Serial Bus", "Unique Serial Bus", "Unified System Bridge"],
+        "answer": "Universal Serial Bus"
+    },
+    {
+        "question": "What kind of file is a '.jpg'?",
+        "options": ["Text file", "Video file", "Image file", "Audio file"],
+        "answer": "Image file"
+    },
+    {
+        "question": "Which programming language is mainly used for AI and Machine Learning?",
+        "options": ["Java", "Python", "C", "PHP"],
+        "answer": "Python"
+    },
+    {
+        "question": "Which search engine is most widely used?",
+        "options": ["Yahoo", "Bing", "DuckDuckGo", "Google"],
+        "answer": "Google"
+    },
+    {
+        "question": "What is the function of RAM in a computer?",
+        "options": ["Stores permanent data", "Stores temporary data", "Controls graphics", "Connects to internet"],
+        "answer": "Stores temporary data"
+    },
+    {
+        "question": "Which port is used for internet connectivity?",
+        "options": ["HDMI", "USB", "Ethernet", "VGA"],
+        "answer": "Ethernet"
+    },
+    {
+        "question": "What does AI stand for?",
+        "options": ["Automated Intelligence", "Artificial Information", "Advanced Interface", "Artificial Intelligence"],
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "question": "Which one is a web browser?",
+        "options": ["Google", "Firefox", "Yahoo", "Bing"],
+        "answer": "Firefox"
+    },
+    {
+        "question": "Which software is used for spreadsheet tasks?",
+        "options": ["Word", "Excel", "PowerPoint", "Photoshop"],
+        "answer": "Excel"
+    },
+    {
+        "question": "Which technology is used in cryptocurrency like Bitcoin?",
+        "options": ["Cloud Computing", "Blockchain", "AI", "IoT"],
+        "answer": "Blockchain"
+    },
+    {
+        "question": "Which one is an input device?",
+        "options": ["Monitor", "Printer", "Mouse", "Speaker"],
+        "answer": "Mouse"
+    },
+    {
+        "question": "Which app is primarily used for video conferencing?",
+        "options": ["Zoom", "Spotify", "Slack", "Gmail"],
+        "answer": "Zoom"
+    }
+]
+
+}

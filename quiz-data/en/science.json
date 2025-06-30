@@ -1,0 +1,130 @@
+{
+    "title": "Science",
+    "questions": [
+    {
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the pH value of pure water?",
+        "options": ["5", "7", "9", "12"],
+        "answer": "7"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "Which organ pumps blood throughout the body?",
+        "options": ["Liver", "Brain", "Heart", "Lungs"],
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "Which scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": ["Liquid Lava", "Hydrogen Gas", "Oxygen Gas", "Carbon Dioxide"],
+        "answer": "Hydrogen Gas"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": ["A", "B", "AB", "O"],
+        "answer": "O"
+    },
+    {
+        "question": "What is the atomic number of Carbon?",
+        "options": ["6", "12", "14", "16"],
+        "answer": "6"
+    },
+    {
+        "question": "Which part of the plant conducts photosynthesis?",
+        "options": ["Root", "Stem", "Leaf", "Flower"],
+        "answer": "Leaf"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": ["Liver", "Brain", "Skin", "Large Intestine"],
+        "answer": "Skin"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["Sodium", "Aluminum", "Mercury", "Iron"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "options": ["Meteorology", "Paleontology", "Geology", "Archaeology"],
+        "answer": "Paleontology"
+    },
+    {
+        "question": "Which gas do plants absorb during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "options": ["Volt", "Ampere", "Ohm", "Watt"],
+        "answer": "Ohm"
+    },
+    {
+        "question": "Which vitamin is produced when human skin is exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+        "answer": "Vitamin D"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": ["HO", "H2O", "H2O2", "H3O"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which scientist discovered penicillin?",
+        "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": ["Femur", "Tibia", "Humerus", "Skull"],
+        "answer": "Femur"
+    },
+    {
+        "question": "Which planet has the most moons in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the chemical symbol for Sodium?",
+        "options": ["So", "Sd", "Na", "No"],
+        "answer": "Na"
+    },
+    {
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "options": ["Electromagnetic Force", "Gravitational Force", "Strong Nuclear Force", "Weak Nuclear Force"],
+        "answer": "Gravitational Force"
+    },
+    {
+        "question": "What is the main function of red blood cells?",
+        "options": ["Fight infection", "Transport oxygen", "Digest food", "Produce hormones"],
+        "answer": "Transport oxygen"
+    }
+]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "History",
+    "questions": [
+    {
+        "question": "When did World War II end?",
+        "options": ["1943", "1945", "1950", "1939"],
+        "answer": "1945"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "question": "The Great Wall of China was primarily built to protect against which group?",
+        "options": ["Mongols", "Vikings", "Huns", "Persians"],
+        "answer": "Mongols"
+    },
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "options": ["Greeks", "Romans", "Egyptians", "Mayans"],
+        "answer": "Egyptians"
+    },
+    {
+        "question": "When did the French Revolution begin?",
+        "options": ["1776", "1789", "1799", "1812"],
+        "answer": "1789"
+    },
+    {
+        "question": "Who was the first female Prime Minister of India?",
+        "options": ["Sonia Gandhi", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu"],
+        "answer": "Indira Gandhi"
+    },
+    {
+        "question": "In which year did India gain independence from British rule?",
+        "options": ["1942", "1947", "1950", "1935"],
+        "answer": "1947"
+    },
+    {
+        "question": "Who wrote the Indian National Anthem?",
+        "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Mahatma Gandhi"],
+        "answer": "Rabindranath Tagore"
+    },
+    {
+        "question": "The Industrial Revolution began in which country?",
+        "options": ["France", "Germany", "United States", "Great Britain"],
+        "answer": "Great Britain"
+    },
+    {
+        "question": "Who was known as the 'Father of the Indian Constitution'?",
+        "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "B.R. Ambedkar", "Sardar Patel"],
+        "answer": "B.R. Ambedkar"
+    },
+    {
+        "question": "When was the Magna Carta signed?",
+        "options": ["1066", "1215", "1492", "1776"],
+        "answer": "1215"
+    },
+    {
+        "question": "Who was the first Emperor of the Maurya Empire?",
+        "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+        "answer": "Chandragupta Maurya"
+    },
+    {
+        "question": "The Taj Mahal was built by which Mughal Emperor?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Shah Jahan"
+    },
+    {
+        "question": "When did the American Civil War begin?",
+        "options": ["1776", "1812", "1861", "1898"],
+        "answer": "1861"
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "James Cook"],
+        "answer": "Christopher Columbus"
+    },
+    {
+        "question": "The Russian Revolution took place in which year?",
+        "options": ["1905", "1917", "1922", "1939"],
+        "answer": "1917"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Marie Curie", "Mother Teresa", "Rosalind Franklin", "Florence Nightingale"],
+        "answer": "Marie Curie"
+    },
+    {
+        "question": "The ancient city of Troy was located in which modern-day country?",
+        "options": ["Greece", "Italy", "Turkey", "Egypt"],
+        "answer": "Turkey"
+    },
+    {
+        "question": "When did the Berlin Wall fall?",
+        "options": ["1985", "1989", "1991", "1975"],
+        "answer": "1989"
+    },
+    {
+        "question": "Who was the first Emperor of Rome?",
+        "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
+        "answer": "Augustus"
+    },
+    {
+        "question": "The Harappan civilization was located primarily in which modern country?",
+        "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+        "answer": "Pakistan"
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Leon Trotsky"],
+        "answer": "Joseph Stalin"
+    },
+    {
+        "question": "The Battle of Plassey was fought in which year?",
+        "options": ["1757", "1857", "1764", "1748"],
+        "answer": "1757"
+    },
+    {
+        "question": "Who was the first European to reach India by sea?",
+        "options": ["Christopher Columbus", "Vasco da Gama", "Marco Polo", "Ferdinand Magellan"],
+        "answer": "Vasco da Gama"
+    },
+    {
+        "question": "The Renaissance period began in which country?",
+        "options": ["France", "Germany", "Italy", "Spain"],
+        "answer": "Italy"
+    }
+]
+}

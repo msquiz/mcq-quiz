@@ -1,0 +1,131 @@
+{
+    "title": "Geography",
+    "questions": [
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which country has the largest population?",
+        "options": ["India", "USA", "China", "Russia"],
+        "answer": "China"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "options": ["Asia", "Africa", "Europe", "South America"],
+        "answer": "Africa"
+    },
+    {
+        "question": "Which is the smallest continent by land area?",
+        "options": ["Europe", "Australia", "Antarctica", "South America"],
+        "answer": "Australia"
+    },
+    {
+        "question": "Which ocean is the deepest?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+    },
+    {
+        "question": "Which is the largest country in the world by area?",
+        "options": ["USA", "Russia", "Canada", "China"],
+        "answer": "Russia"
+    },
+    {
+        "question": "Mount Everest lies on the border of which two countries?",
+        "options": ["India and China", "China and Nepal", "India and Nepal", "Bhutan and China"],
+        "answer": "China and Nepal"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which river flows through Paris?",
+        "options": ["Danube", "Thames", "Seine", "Rhine"],
+        "answer": "Seine"
+    },
+    {
+        "question": "The Tropic of Cancer passes through how many Indian states?",
+        "options": ["8", "9", "6", "7"],
+        "answer": "8"
+    },
+    {
+        "question": "Which lake is the largest freshwater lake by volume?",
+        "options": ["Lake Victoria", "Lake Superior", "Lake Baikal", "Lake Tanganyika"],
+        "answer": "Lake Baikal"
+    },
+    {
+        "question": "Which is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Perth", "Canberra"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which line divides the Earth into Eastern and Western Hemispheres?",
+        "options": ["Equator", "Tropic of Cancer", "Prime Meridian", "Tropic of Capricorn"],
+        "answer": "Prime Meridian"
+    },
+    {
+        "question": "Which country has the most number of islands?",
+        "options": ["Indonesia", "Norway", "Philippines", "Sweden"],
+        "answer": "Sweden"
+    },
+    {
+        "question": "Which city is located on two continents?",
+        "options": ["Istanbul", "Moscow", "Cairo", "Rome"],
+        "answer": "Istanbul"
+    },
+    {
+        "question": "What is the name of the strait that separates Asia from North America?",
+        "options": ["Malacca Strait", "Bering Strait", "Bosporus Strait", "Hormuz Strait"],
+        "answer": "Bering Strait"
+    },
+    {
+        "question": "Which mountain range separates Europe and Asia?",
+        "options": ["Andes", "Rockies", "Alps", "Ural"],
+        "answer": "Ural"
+    },
+    {
+        "question": "Which Indian river is known as the 'Sorrow of Bihar'?",
+        "options": ["Ganga", "Son", "Kosi", "Yamuna"],
+        "answer": "Kosi"
+    },
+    {
+        "question": "Which ocean surrounds the Maldives?",
+        "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+        "answer": "Indian Ocean"
+    },
+    {
+        "question": "Which country has no rivers?",
+        "options": ["Saudi Arabia", "Libya", "Kuwait", "Qatar"],
+        "answer": "Saudi Arabia"
+    },
+    {
+        "question": "Which river is known as the Ganga of the South?",
+        "options": ["Godavari", "Krishna", "Cauvery", "Tungabhadra"],
+        "answer": "Godavari"
+    },
+    {
+        "question": "Which Indian state has the longest coastline?",
+        "options": ["Kerala", "Andhra Pradesh", "Gujarat", "Maharashtra"],
+        "answer": "Gujarat"
+    },
+    {
+        "question": "What is the world's largest archipelago?",
+        "options": ["Philippines", "Indonesia", "Japan", "Maldives"],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "Which of the following countries is landlocked?",
+        "options": ["Bolivia", "Vietnam", "Thailand", "Malaysia"],
+        "answer": "Bolivia"
+    }
+]
+
+}

@@ -1,0 +1,131 @@
+{
+    "title": "Sports",
+    "questions": [
+    {
+        "question": "Which country has won the most FIFA World Cups?",
+        "options": ["Germany", "Italy", "Argentina", "Brazil"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "Who holds the record for the most Grand Slam titles in men's tennis?",
+        "options": ["Rafael Nadal", "Novak Djokovic", "Roger Federer", "Andy Murray"],
+        "answer": "Novak Djokovic"
+    },
+    {
+        "question": "In which sport is the term 'birdie' used?",
+        "options": ["Tennis", "Badminton", "Golf", "Cricket"],
+        "answer": "Golf"
+    },
+    {
+        "question": "How many players are there in a football (soccer) team on the field?",
+        "options": ["10", "11", "12", "9"],
+        "answer": "11"
+    },
+    {
+        "question": "What is the length of a standard marathon?",
+        "options": ["26.2 miles", "20 miles", "30 miles", "24 miles"],
+        "answer": "26.2 miles"
+    },
+    {
+        "question": "Which country hosted the 2020 Summer Olympics?",
+        "options": ["China", "Japan", "Brazil", "France"],
+        "answer": "Japan"
+    },
+    {
+        "question": "Who is known as the 'God of Cricket'?",
+        "options": ["Virat Kohli", "Ricky Ponting", "MS Dhoni", "Sachin Tendulkar"],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "Which sport uses the term 'slam dunk'?",
+        "options": ["Volleyball", "Basketball", "Tennis", "Wrestling"],
+        "answer": "Basketball"
+    },
+    {
+        "question": "How many rings are there on the Olympic flag?",
+        "options": ["4", "5", "6", "3"],
+        "answer": "5"
+    },
+    {
+        "question": "Which country has won the most Olympic medals overall?",
+        "options": ["Russia", "China", "USA", "Germany"],
+        "answer": "USA"
+    },
+    {
+        "question": "In cricket, how many balls are there in an over?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+    },
+    {
+        "question": "What is the national sport of Canada?",
+        "options": ["Hockey", "Lacrosse", "Baseball", "Cricket"],
+        "answer": "Lacrosse"
+    },
+    {
+        "question": "Who won the ICC Cricket World Cup in 2019?",
+        "options": ["India", "Australia", "England", "New Zealand"],
+        "answer": "England"
+    },
+    {
+        "question": "Which sport is known as the 'king of sports'?",
+        "options": ["Cricket", "Football", "Boxing", "Tennis"],
+        "answer": "Football"
+    },
+    {
+        "question": "Who is the fastest man in the world?",
+        "options": ["Tyson Gay", "Usain Bolt", "Yohan Blake", "Carl Lewis"],
+        "answer": "Usain Bolt"
+    },
+    {
+        "question": "Which Indian athlete won a gold medal in javelin at the 2021 Tokyo Olympics?",
+        "options": ["Bajrang Punia", "Neeraj Chopra", "PV Sindhu", "Dutee Chand"],
+        "answer": "Neeraj Chopra"
+    },
+    {
+        "question": "Which country has won the most ICC Cricket World Cups?",
+        "options": ["India", "Australia", "West Indies", "England"],
+        "answer": "Australia"
+    },
+    {
+        "question": "In which game is the Ryder Cup contested?",
+        "options": ["Tennis", "Golf", "Football", "Cricket"],
+        "answer": "Golf"
+    },
+    {
+        "question": "Who is the most successful Olympian of all time?",
+        "options": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Mark Spitz"],
+        "answer": "Michael Phelps"
+    },
+    {
+        "question": "Which country invented the sport of table tennis?",
+        "options": ["China", "Japan", "India", "England"],
+        "answer": "England"
+    },
+    {
+        "question": "Which sport is associated with the Davis Cup?",
+        "options": ["Cricket", "Tennis", "Badminton", "Golf"],
+        "answer": "Tennis"
+    },
+    {
+        "question": "Who won the FIFA World Cup in 2022?",
+        "options": ["France", "Germany", "Argentina", "Brazil"],
+        "answer": "Argentina"
+    },
+    {
+        "question": "Which Indian female boxer is a six-time world champion?",
+        "options": ["Mary Kom", "Lovlina Borgohain", "Pinki Rani", "Sarita Devi"],
+        "answer": "Mary Kom"
+    },
+    {
+        "question": "In which year were the first modern Olympic Games held?",
+        "options": ["1896", "1900", "1920", "1888"],
+        "answer": "1896"
+    },
+    {
+        "question": "Which sport is played with a shuttlecock?",
+        "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+        "answer": "Badminton"
+    }
+]
+
+}
