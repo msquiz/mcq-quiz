@@ -394,11 +394,15 @@ function showResults() {
         resultItem.classList.add('result-item');
         resultItem.classList.add(isCorrect ? 'correct' : 'incorrect');
         
-        resultItem.innerHTML = `
-            <div class="result-question">${index + 1}. ${question.question}</div>
-            <div>Your answer: <span class="user-answer">${userAnswer || 'Not answered'}</span></div>
-            <div>Correct answer: <span class="correct-answer">${question.answer}</span></div>
-        `;
+        // Apply color for correct or incorrect ansder...
+	const userAnswerText = userAnswer || (currentLanguage === 'hi' ? 'उत्तर नहीं दिया' : 'Not answered');
+	const userAnswerClass = isCorrect ? 'correct-feedback' : 'incorrect-feedback';
+
+	resultItem.innerHTML = `
+		<div class="result-question">${index + 1}. ${question.question}</div>
+		<div>${currentLanguage === 'hi' ? 'आपका उत्तर' : 'Your answer'}: <span class="user-answer ${userAnswerClass}">${userAnswerText}</span></div>
+		<div>${currentLanguage === 'hi' ? 'सही उत्तर' : 'Correct answer'}: <span class="correct-answer">${question.answer}</span></div>
+	`;
         
         resultsDetailsEl.appendChild(resultItem);
     });
