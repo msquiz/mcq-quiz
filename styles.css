@@ -417,16 +417,20 @@ nav {
     font-size: 1.1rem;
 }
 
-.user-answer {
-    color: var(--danger);
-    font-weight: 500;
-}
-
 .correct-answer {
     color: var(--success);
     font-weight: 500;
 }
 
+.user-answer.correct-feedback {
+    color: var(--success); /* Green for correct user answer */
+    font-weight: 500;
+}
+
+.user-answer.incorrect-feedback {
+    color: var(--danger); /* Red for incorrect user answer */
+    font-weight: 500;
+}
 .action-buttons {
     display: flex;
     justify-content: center;
