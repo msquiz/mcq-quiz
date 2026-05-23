@@ -94,7 +94,7 @@ let currentQuestion = 0;
 let score = 0;
 let userAnswers = [];
 let timer;
-let timeLeft = 300; // 5 minutes in seconds
+let timeLeft = 600; // 10 minutes in seconds
 let isTimerPaused = false;
 let quizData = {}; // Will be populated with fetched data
 
